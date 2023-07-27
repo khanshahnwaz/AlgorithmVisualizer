@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AlgorithmVisualizer/static/css/main.60bb96a2.css",
+    "main.js": "/AlgorithmVisualizer/static/js/main.ba5d49da.js",
+    "static/js/787.d2a94437.chunk.js": "/AlgorithmVisualizer/static/js/787.d2a94437.chunk.js",
+    "index.html": "/AlgorithmVisualizer/index.html",
+    "main.60bb96a2.css.map": "/AlgorithmVisualizer/static/css/main.60bb96a2.css.map",
+    "main.ba5d49da.js.map": "/AlgorithmVisualizer/static/js/main.ba5d49da.js.map",
+    "787.d2a94437.chunk.js.map": "/AlgorithmVisualizer/static/js/787.d2a94437.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60bb96a2.css",
+    "static/js/main.ba5d49da.js"
+  ]
+}
